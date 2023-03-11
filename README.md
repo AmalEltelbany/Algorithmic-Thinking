@@ -1,1 +1,1 @@
-# Algorithmic-Thinkink
+# Algorithmic-Thinking
